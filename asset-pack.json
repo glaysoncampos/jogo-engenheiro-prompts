@@ -1,0 +1,238 @@
+{
+  "fonts": {
+    "files": [
+      {
+        "url": "https://cdn-game-mcp-test.gambo.ai/shared/retro-pixel-arcade.otf.woff2",
+        "type": "font",
+        "key": "RetroPixel",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "tilemaps": {
+    "files": [
+      {
+        "type": "tilemapTiledJSON",
+        "key": "hospital_level_1",
+        "url": "https://cdn-game-mcp.gambo.ai/91543e05-091e-43d3-9d63-6fed747eb751/tile_maps/hospital_level_1.json"
+      }
+    ]
+  },
+  "tilesets": {
+    "files": [
+      {
+        "type": "image",
+        "key": "hospital_tech_ground",
+        "url": "https://cdn-game-mcp.gambo.ai/361d4607-79aa-4a72-810b-7431d74c6e16/tilesets/hospital_tech_ground.png"
+      }
+    ]
+  },
+  "backgrounds": {
+    "files": [
+      {
+        "type": "image",
+        "key": "hospital_background",
+        "url": "https://cdn-game-mcp.gambo.ai/cd72c6e5-5f30-40ce-8760-5b168bb24021/images/hospital_background.png"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "game_title_prompts",
+        "url": "https://cdn-game-mcp.gambo.ai/b289b32a-9910-42c2-9d3b-67f259a4369b/images/game_title_prompts.png"
+      }
+    ]
+  },
+  "collectibles": {
+    "files": [
+      {
+        "type": "image",
+        "key": "persona_collectible",
+        "url": "https://cdn-game-mcp.gambo.ai/ded986eb-9f26-4820-b5ed-45bcc376e303/images/persona_collectible.png"
+      },
+      {
+        "type": "image",
+        "key": "objetivo_collectible",
+        "url": "https://cdn-game-mcp.gambo.ai/cf64834c-4d27-4705-b8ab-715f03c58227/images/objetivo_collectible.png"
+      },
+      {
+        "type": "image",
+        "key": "contexto_collectible",
+        "url": "https://cdn-game-mcp.gambo.ai/9ad833ef-8f6e-471d-8cbb-5c0503e93a1a/images/contexto_collectible.png"
+      },
+      {
+        "type": "image",
+        "key": "tarefa_collectible",
+        "url": "https://cdn-game-mcp.gambo.ai/87ed77fe-0158-4e46-a394-12e5a1dcd3a8/images/tarefa_collectible.png"
+      },
+      {
+        "type": "image",
+        "key": "formato_collectible",
+        "url": "https://cdn-game-mcp.gambo.ai/b92b37aa-fd3e-4b37-bc83-98b6f3f0ba7a/images/formato_collectible.png"
+      }
+    ]
+  },
+  "hazards": {
+    "files": [
+      {
+        "type": "image",
+        "key": "divida_cognitiva_spike",
+        "url": "https://cdn-game-mcp.gambo.ai/20c63b43-4aca-4c27-b5b0-c53acba65cdf/images/divida_cognitiva_spike.png"
+      },
+      {
+        "type": "image",
+        "key": "portal_final",
+        "url": "https://cdn-game-mcp.gambo.ai/9e7c58a5-51ba-492d-8346-64c43c6a70f7/images/portal_final.png"
+      }
+    ]
+  },
+  "character_animations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "faturista_idle_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/f061a188-c04c-4444-a855-46e0fe91c0e8/animations/faturista_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_idle_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/93cdeb08-9418-426b-b648-b5866223bf9e/animations/faturista_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_walk_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/5999f0f4-786a-4b08-947d-f28ae881f10d/animations/faturista_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_walk_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/9d1aa2b0-d395-45f0-a692-05c08248499d/animations/faturista_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_jump_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/efb13e01-50c8-4270-b5eb-3be3be1235c0/animations/faturista_jump_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_jump_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/945f2b0f-2a96-4995-9a61-c7ac5000a00f/animations/faturista_jump_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_die_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/4e0d22d7-a3e2-4b9b-96f2-dff0e73374ea/animations/faturista_die_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "faturista_die_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/beee34a1-bfc7-41e2-9d29-7f0009eb5c6a/animations/faturista_die_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "robo_idle_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/c3c0769c-be3c-4076-8e4c-317df4ccae14/animations/robo_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "robo_idle_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/0dde9bf0-68de-49e7-ad0e-a6ac0b3a37bb/animations/robo_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "robo_walk_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/e5ae9a2d-92b3-48d1-8286-6d574e030451/animations/robo_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "robo_walk_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/663e2944-46f8-4170-a23b-376bed3d1b01/animations/robo_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "robo_attack_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/eaaa0dbe-6588-48cd-b191-baa505453ad4/animations/robo_attack_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "robo_attack_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/30a9f9fc-bfeb-47cf-8fef-a0b2830be995/animations/robo_attack_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "glitch_float_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/0b2e78cb-0246-42a6-9bc0-40d5ab600c08/animations/glitch_float_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "glitch_float_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/8c18fb53-e507-4d5f-b9b1-d88d25a1705e/animations/glitch_float_R/frame_2.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "collect_prompt_element",
+        "url": "https://cdn-game-mcp.gambo.ai/19b32a24-882c-4053-bba1-64cdff08649f/sound_effects/collect_prompt_element.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "robot_attack_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/0e78815d-a14c-4432-955e-8e0a4b5d4589/sound_effects/robot_attack_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "glitch_movement_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/90cf06c4-fae1-4e40-b1bd-d19a06dadd50/sound_effects/glitch_movement_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "spike_damage_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/35422df0-d604-4722-92ea-c3ca26688dcc/sound_effects/spike_damage_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "portal_activation_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/3e278219-3b78-4489-bfe4-4b1f1868108b/sound_effects/portal_activation_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "game_over_ai_error",
+        "url": "https://cdn-game-mcp.gambo.ai/07619d11-4b34-4c9d-9216-4b7e7a94e319/sound_effects/game_over_ai_error.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "perfect_prompt_success",
+        "url": "https://cdn-game-mcp.gambo.ai/0f890611-4ac3-40d2-9d8a-b2c274ffaf3a/sound_effects/perfect_prompt_success.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ui_click_hospital",
+        "url": "https://cdn-game-mcp.gambo.ai/2bfe68f9-b770-4060-80cf-a685fa0de44d/sound_effects/ui_click_hospital.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "player_jump_tech",
+        "url": "https://cdn-game-mcp.gambo.ai/198adae2-c3b2-4850-b643-a16ff70502d6/sound_effects/player_jump_tech.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "player_hurt_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/43b767ff-27f8-4b9c-87f6-76b9d2daeb7e/sound_effects/player_hurt_sound.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+    ]
+  },
+  "meta": {
+    "app": "Gambo AI",
+    "version": 1,
+    "showAllFilesInBlocks": false
+  }
+}
